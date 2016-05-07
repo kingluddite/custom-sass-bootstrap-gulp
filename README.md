@@ -1,5 +1,11 @@
 # Example: Creating a Custom Bootstrap Build With SCSS
 
+## Inspiration
+
+[link](https://www.codementor.io/development-process/tutorial/create-custom-bootstrap-build-with-scss)
+
+## Installation Instructions
+
 Install npm dependencies
 
 ```
